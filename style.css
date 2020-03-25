@@ -1,0 +1,23 @@
+.tile {
+    height: 45px;
+}
+
+.black {
+    background-color: #000000;
+}
+
+.l-blue {
+    background-color: #00e5ff;
+}
+
+.blue {
+    background-color: #006fff;
+}
+
+.pink {
+    background-color: #ffebd9;
+}
+
+.white {
+    background-color: #ffffff;
+}
